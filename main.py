@@ -13,3 +13,6 @@ if punya_telur:
     print('Andi mengambil 6 Telur dan 1 buah Susu')
 else :
     print('Andi hanya membeli 1 buah susu')
+
+print('Andi pulang kerumah dan menyerahkan barang belanja ke ibu')
+print('tamat.')
