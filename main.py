@@ -12,4 +12,4 @@ punya_telur = True
 if punya_telur:
     print('Andi mengambil 6 Telur dan 1 buah Susu')
 else :
-    print('tidak usah beli telur')
+    print('Andi hanya membeli 1 buah susu')
